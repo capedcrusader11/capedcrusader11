@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Task Master</h1>
-<h3 align="center">Expert blockchain developer with 3 years of experience in designing, creating and implementing Blockchain solutions.</h3>
+<h3 align="center">Expert blockchain developer with years of experience in designing, creating and implementing Blockchain solutions.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=capedcrusader11" alt="capedcrusader11" /></a> </p>
 
