@@ -3,11 +3,13 @@
 **Skills**:
 * Ethereum
 * Layer 2(Polygon)
+* NFTs
 * DeFi
 * Solidity
 * Hardhat
 * Javascript
 * Mocha
+* Chai
 * Problem Solving
 * Data Structures
 * Rails
